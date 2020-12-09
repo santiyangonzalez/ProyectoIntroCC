@@ -1,2 +1,2 @@
 # ProyectoIntroCC
-Programa para dibujar en 3D
+Hice un programa para dibujar en 3D, en JavaScript y html. Correr en un editor de html como https://www.w3schools.com/code/tryit.asp?filename=GLH2DO35H6YN. Para dibujar primero hay que hacer click sobre la pantalla (el canvas) luego presionar espacio y mover el mouse. Para borrar presionar la tecla borrar (backspace). Para rotar usar las flechas del teclado. Para cambiar el grosor o el color usar las teclas que se indican en la pantalla. 
